@@ -79,5 +79,9 @@ Notas:
 Basado en la plantilla [esp-idf-arduino-bluepad32-template](https://github.com/ricardoquesada/esp-idf-arduino-bluepad32-template)
 de Ricardo Quesada (su README original está en `README-plantilla-bluepad32.md`). Incluye
 [Arduino-ESP32](https://github.com/espressif/arduino-esp32) y [BTstack](https://github.com/bluekitchen/btstack), que se
-descargan con `instalar_dependencias.sh`. Licencias (ver `LICENSE`): el código del robot y de la plantilla, Apache 2.0;
-`bluepad32_arduino`, Apache 2.0 y LGPL-2.1; BTstack tiene su propia licencia (libre para uso no comercial).
+descargan con `instalar_dependencias.sh`.
+
+**Licencia: Apache 2.0** (ver `LICENSE`), © 2026 juansebastiam984-glitch. Puedes usar, modificar y redistribuir el
+código, también con fines comerciales, manteniendo el aviso de copyright, la licencia y el archivo `NOTICE`; se
+entrega sin garantía. El detalle por partes está en `NOTICE`: `bluepad32_arduino` es además LGPL-2.1, Arduino-ESP32
+es LGPL-2.1, y BTstack tiene su propia licencia (libre solo para uso no comercial).

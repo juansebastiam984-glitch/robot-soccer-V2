@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 juansebastiam984-glitch
+//
 // Paso 4: giroscopio MPU6050 con correccion de rumbo para ir recto.
 // Motores y buzzer igual que en el paso 3.
 //

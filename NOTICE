@@ -1,0 +1,16 @@
+robot-soccer-V2
+Copyright 2026 juansebastiam984-glitch
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This project is based on esp-idf-arduino-bluepad32-template
+(https://github.com/ricardoquesada/esp-idf-arduino-bluepad32-template),
+Copyright 2019 Ricardo Quesada, licensed under the Apache License, Version 2.0.
+
+Licenses of the parts:
+* Robot code (main/sketch.cpp) and template code: Apache-2.0
+* components/bluepad32: Apache-2.0
+* components/bluepad32_arduino: Apache-2.0 and LGPL-2.1-or-later
+* Arduino-ESP32 (components/arduino, downloaded by instalar_dependencias.sh): LGPL-2.1
+* BTstack (external/btstack, downloaded by instalar_dependencias.sh): its own license,
+  free for non-commercial use only: https://github.com/bluekitchen/btstack/blob/master/LICENSE
